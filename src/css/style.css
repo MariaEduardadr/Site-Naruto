@@ -17,10 +17,6 @@ body {
     overflow: hidden;
 }
 
-#jogo{
-    background: linear-gradient(220deg,var(--orange-color),var(--orange-color-s), var(--blue));
-}
-
 
 main::after{
     content: "";
